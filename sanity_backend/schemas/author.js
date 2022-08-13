@@ -9,9 +9,14 @@ export default {
       title: "Name",
     },
     {
-        name : "image",
-        type:'image',
-        title:'Image'
-    }
+      name: "about",
+      title: "About",
+      type: "string",
+    },
+    {
+      name: "image",
+      type: "image",
+      title: "Image",
+    },
   ],
 };
